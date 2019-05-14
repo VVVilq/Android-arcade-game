@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kosmiczna przygoda</string>
+    <string name="kosmiczna_przygoda">Kosmiczna Przygoda</string>
+    <string name="rozpocznij_gre">Rozpocznij gre</string>
+    <string name="jak_gra">Jak Grać</string>
+    <string name="zobacz_wyniki">Zobacz Wyniki</string>
+    <string name="celem_gry_jest_zebranie_jak_najwi_kszej_liczby_punkt_w_kt_re_gracz_dostaje_unikaj_c_zderzenia_z_asteroidami_punkty_pszyznawane_s_w_momencie_znikni_cia_asteroidy_z_ekranu_sterowanie_statkiem_odbywa_si_przez_nachylanie_ekranu_w_odpowiednim_kierunku">Celem gry jest zebranie jak największej liczby punktów, które gracz dostaje unikając zderzenia z asteroidami. Punkty pszyznawane są w momencie zniknięcia asteroidy z ekranu. Sterowanie statkiem odbywa się przez nachylanie ekranu w odpowiednim kierunku </string>
+    <string name="jak_grać">Jak grać</string>
+    <string name="menu">Menu</string>
+    <string name="hint">hint</string>
+    <string name="button_back">Back</string>
+    <string name="aaa">Celem gry jest zebranie jak największej liczby punktów, które gracz dostaje unikając zderzenia z asteroidami. Punkty pszyznawane są w momencie zniknięcia asteroidy z ekranu. Sterowanie statkiem odbywa się przez nachylanie ekranu w odpowiednim kierunku </string>
+    <string name="nowa_gra">Nowa Gra</string>
+
+    <string name="zdobyte_punkty">Zdobyte Punkty</string>
+    <string name="wyporad_nick">wyporadź nick</string>
+    <string name="nick">Nick</string>
+    <string name="punkty">Punkty</string>
+    <string name="nowa_graa">Nowa gra</string>
+    <string name="zapisz_wynik">Zapisz Wynik</string>
+
+
+</resources>
